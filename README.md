@@ -1,2 +1,2 @@
 # angUlar
-My first attempt to write an angularjs application
+A simple angularjs application
